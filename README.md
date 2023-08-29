@@ -1,5 +1,5 @@
 <p align="center">
-    <h1>🍿 POPCorn</h1>
+    <h1 align="center">🍿 POPCorn</h1>
 </p>
 
 <p align="center">
